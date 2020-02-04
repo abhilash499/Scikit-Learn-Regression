@@ -3,9 +3,9 @@
 This story represents an easy path for beginners to built an Regression ML model using Scikit-Learn Framework. Here,  a Home Loan Rate Calculator is built using Freddie Mac Single Family Home Loan data. Similar approach can be used for building a Regression Model using Scikit-Learn.
 
 ### Tools/Software Used:
-  Service - Jupyter Notebook.
-  Storage - PC.
-  Language - Python.
+  ##### Service - Jupyter Notebook.
+  ##### Storage - PC.
+  ##### Language - Python.
 
 ### Checklist Followed for Building an ML Model:
    Taking a look at the Big Picture.
