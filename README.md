@@ -18,4 +18,4 @@ This story represents an easy path for beginners to built an Regression ML model
    ##### Solution Presentation.
    ##### Batch Deploy and Monitor.
 
-####  Please Visit https://medium.com/p/9f72812dd413/edit for more details.
+####  Please Visit https://medium.com/@abhilash.mohapatra25/an-introduction-to-machine-learning-with-scikit-learn-9f72812dd413 for more details.
